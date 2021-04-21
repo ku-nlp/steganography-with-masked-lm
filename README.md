@@ -1,7 +1,7 @@
 # steganography-with-masked-lm
 
 This repository contains implementations of the steganography algorithms with masked language models.
-Please refer to our paper [Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model](#)
+Please refer to our paper [Frustratingly Easy Edit-based Linguistic Steganography with a Masked Language Model](https://arxiv.org/abs/2104.09833)
 for more details.
 
 ## Requirements
